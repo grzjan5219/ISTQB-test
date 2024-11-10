@@ -1,1 +1,1 @@
-# Tu powstanie skrypt
+print("Hello world")
